@@ -1,4 +1,4 @@
-# 🚗 EliteDrive — Luxury Car Dealership Platform
+#EliteDrive — Luxury Car Dealership Platform
 
 > A full-featured luxury vehicle dealership web app built with React, TypeScript, and Vite. Live at [elitedrive-three.vercel.app](https://elitedrive-three.vercel.app)
 
@@ -66,6 +66,4 @@ src/
 
 **[https://elitedrive-three.vercel.app](https://elitedrive-three.vercel.app)**
 
-## 📄 License
 
-MIT
