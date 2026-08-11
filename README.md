@@ -4,7 +4,7 @@
 
 ![EliteDrive Preview](https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&q=80&w=1200&h=400)
 
-## ✨ Features
+##  Features
 
 - **Vehicle Inventory** — Filterable catalog with brand, model, price range, year, body type and fuel type
 - **Vehicle Detail Modal** — Image gallery with zoom viewer, financing calculator, test drive booking
@@ -30,7 +30,7 @@
 | Email | FormSubmit, EmailJS |
 | Deployment | Vercel |
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 # 1. Clone the repo
@@ -50,7 +50,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000)
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -62,7 +62,7 @@ src/
 └── index.css             # Global styles & Tailwind theme
 ```
 
-## 🌐 Live Demo
+##  Live Demo
 
 **[https://elitedrive-three.vercel.app](https://elitedrive-three.vercel.app)**
 
